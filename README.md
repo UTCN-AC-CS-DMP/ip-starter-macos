@@ -20,8 +20,6 @@ In order to simplify installing the necessary software libraries and correspondi
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
-![Install HomeBrew](assets/README/1_install_brew.png)
-
 3. Once you've successfully installed homebrew, restart your terminal and install the necessary packages for development. You can find a short description of each package in the table below:
 
 | Package Name | Short Description         |
@@ -55,5 +53,5 @@ Next you'll want to clone the starter project
 Open your terminal and enter the following
 
 ```shell
-git clone --recurse-submodules
+git clone --recurse-submodules https://github.com/UTCN-AC-CS-DMP/ip-starter-macos.git
 ```
