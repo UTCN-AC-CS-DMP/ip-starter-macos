@@ -41,9 +41,9 @@ Next, you'll want to install Visual Studio code from the official site [https://
 
 It is recommended to install the following extensions for C / C++ development:
 
-- C/C++ Extension Pack (contains four extensions) by Microsoft
-- Better C++ Syntax by Jeff Hykin
-- CodeLLDB by Vadim Chugunov
+- [C/C++ Extension Pack](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools-extension-pack) (contains four extensions) by Microsoft
+- [Better C++ Syntax](https://marketplace.visualstudio.com/items?itemName=jeff-hykin.better-cpp-syntax) by Jeff Hykin
+- [CodeLLDB](https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb) by Vadim Chugunov
 
 Once you have successfully installed the necessary extensions, you're ready to begin developing
 
